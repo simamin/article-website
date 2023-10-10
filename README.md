@@ -14,6 +14,6 @@ Feel free to reach out via any of the routes below.
 - DM me on [Instagram](https://www.instagram.com/n0epse/?hl=en)
 
 ### credits
-- [photocredit - victor sauca](https://unsplash.com/photos/pQaDRXqW6Eg)
+- photo - [victor sauca](https://unsplash.com/photos/pQaDRXqW6Eg)
 
-- [designcredit - kevin fay](https://yesimadesigner.com/anatomy-of-a-magazine-layout/)
+- design - [kevin fay](https://yesimadesigner.com/anatomy-of-a-magazine-layout/)
