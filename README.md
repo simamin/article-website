@@ -2,6 +2,8 @@
 
 A magazine article spread rendered in HTML/CSS.
 
+View website [here](https://noepse.github.io/article-website/)
+
 ### future features
 - Responsivity at full size (currently extends vertically beyond a certain width)
 
